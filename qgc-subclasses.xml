@@ -9,21 +9,5 @@
       <file name="qgc-subclasses.xml" url="https://raw.githubusercontent.com/SageZeMage/aurora-quabis-chronomancy/main/qgc-subclasses.xml" />
     </update>
   </info>
-
-  <!--
-    Subclass elements will go here, e.g.:
-
-    <element name="School of Chronomancy" type="Archetype" source="Quabis's Guide to Chronomancy" id="ID_QGC_ARCHETYPE_WIZARD_CHRONOMANCY">
-      <supports>Wizard</supports>
-      <description>
-        <p>Subclass fluff...</p>
-      </description>
-      <sheet>
-        <description>
-          <p>Short subclass summary for the sheet...</p>
-        </description>
-      </sheet>
-      <!-- features go here -->
     </element>
-  -->
 </elements>
