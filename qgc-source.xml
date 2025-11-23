@@ -15,10 +15,7 @@
       <p>Chronomancy-focused homebrew content by Dillan Ackerman, converted for use in Aurora Builder.</p>
     </description>
     <setters>
-      <!-- Abbreviation used in source dropdowns / tags -->
       <set name="abbreviation">QGC</set>
-      <!-- Optional: fill in if you have an actual product/page link -->
-      <!-- <set name="url">https://example.com/quabis-chronomancy</set> -->
       <set name="author">Dillan Ackerman</set>
     </setters>
   </element>
