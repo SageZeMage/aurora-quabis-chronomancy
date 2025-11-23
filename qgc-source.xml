@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+  <info>
+    <name>Quabis's Guide to Chronomancy — Source</name>
+    <description>Source definition for Quabis's Guide to Chronomancy homebrew content.</description>
+    <author>Dillan Ackerman (homebrew)</author>
+
+    <update version="1.0.0">
+      <file name="qgc-source.xml" url="https://raw.githubusercontent.com/SageZeMage/aurora-quabis-chronomancy/main/qgc-source.xml" />
+    </update>
+  </info>
+
+  <element name="Quabis's Guide to Chronomancy" type="Source" source="Quabis's Guide to Chronomancy" id="ID_QGC_SOURCE_QUABIS_GUIDE_TO_CHRONOMANCY">
+    <description>
+      <p>Chronomancy-focused homebrew content by Dillan Ackerman, converted for use in Aurora Builder.</p>
+    </description>
+    <setters>
+      <!-- Abbreviation used in source dropdowns / tags -->
+      <set name="abbreviation">QGC</set>
+      <!-- Optional: fill in if you have an actual product/page link -->
+      <!-- <set name="url">https://example.com/quabis-chronomancy</set> -->
+      <set name="author">Dillan Ackerman</set>
+    </setters>
+  </element>
+</elements>
