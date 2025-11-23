@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+  <info>
+    <name>Quabis's Guide to Chronomancy — Spells</name>
+    <description>Spells from Quabis's Guide to Chronomancy.</description>
+    <author>Dillan Ackerman (homebrew)</author>
+
+    <update version="1.0.0">
+      <file name="qgc-spells.xml" url="https://raw.githubusercontent.com/SageZeMage/aurora-quabis-chronomancy/main/qgc-spells.xml" />
+    </update>
+  </info>
+
+  <!--
+    Spell elements will go here, e.g.:
+
+    <element name="Temporal Ripple" type="Spell" source="Quabis's Guide to Chronomancy" id="ID_QGC_SPELL_TEMPORAL_RIPPLE">
+      <description>
+        <p>Full spell text...</p>
+      </description>
+      <setters>
+        <set name="level">3</set>
+        <set name="school">Transmutation</set>
+        <set name="time">1 action</set>
+        <set name="range">60 feet</set>
+        <set name="components">V,S,M (a small hourglass)</set>
+        <set name="duration">Concentration, up to 1 minute</set>
+        <set name="classes">Wizard</set>
+      </setters>
+    </element>
+  -->
+</elements>
