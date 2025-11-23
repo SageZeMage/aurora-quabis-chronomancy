@@ -4,13 +4,15 @@
     <name>Quabis's Guide to Chronomancy (Homebrew)</name>
     <description>Chronomancy-themed homebrew content, adapted for Aurora Builder.</description>
     <author>Dillan Ackerman (homebrew)</author>
-
-    <!-- Point to all the content files in this repo -->
     <update version="1.0.0">
+    </update>
+  </info>
+
+  <files>
       <file name="qgc-source.xml" url="https://raw.githubusercontent.com/SageZeMage/aurora-quabis-chronomancy/main/qgc-source.xml" />
       <file name="qgc-spells.xml" url="https://raw.githubusercontent.com/SageZeMage/aurora-quabis-chronomancy/main/qgc-spells.xml" />
       <file name="qgc-subclasses.xml" url="https://raw.githubusercontent.com/SageZeMage/aurora-quabis-chronomancy/main/qgc-subclasses.xml" />
       <file name="qgc-magicitems.xml" url="https://raw.githubusercontent.com/SageZeMage/aurora-quabis-chronomancy/main/qgc-magicitems.xml" />
-    </update>
-  </info>
-</elements>
+
+  </files>
+</index>
