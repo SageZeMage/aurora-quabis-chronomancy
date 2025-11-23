@@ -10,23 +10,4 @@
     </update>
   </info>
 
-  <!--
-    Example structure (once we know the items):
-
-    <element name="Hourglass of Frozen Moments" type="Magic Item" source="Quabis's Guide to Chronomancy" id="ID_QGC_MAGIC_ITEM_HOURGLASS_OF_FROZEN_MOMENTS">
-      <description>
-        <p>Item text...</p>
-      </description>
-      <sheet>
-        <description>
-          <p>Short version for the character sheet...</p>
-        </description>
-      </sheet>
-      <setters>
-        <set name="rarity">Rare</set>
-        <set name="category">Magic Item</set>
-        <set name="type">Wondrous Item</set>
-      </setters>
-    </element>
-  -->
 </elements>
