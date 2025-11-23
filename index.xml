@@ -11,7 +11,6 @@
       <file name="qgc-spells.xml" url="https://raw.githubusercontent.com/SageZeMage/aurora-quabis-chronomancy/main/qgc-spells.xml" />
       <file name="qgc-subclasses.xml" url="https://raw.githubusercontent.com/SageZeMage/aurora-quabis-chronomancy/main/qgc-subclasses.xml" />
       <file name="qgc-magicitems.xml" url="https://raw.githubusercontent.com/SageZeMage/aurora-quabis-chronomancy/main/qgc-magicitems.xml" />
-      <file name="qgc-feats.xml" url="https://raw.githubusercontent.com/SageZeMage/aurora-quabis-chronomancy/main/qgc-feats.xml" />
     </update>
   </info>
 </elements>
